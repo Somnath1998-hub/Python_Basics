@@ -7,7 +7,7 @@ Easy: 1
 Medium: 2
 Hard: 3
 Depending on the what difficulty is selected the amount of health the person get from the potion is decided.
-For higher difficulty the health is less and vice versa.   
+For higher difficulty the amount of health the person get is less and vice versa.   
 """
 
 
